@@ -1,6 +1,11 @@
 {
   "name": "trash can",
-  "description": "A nasty empty aluminium can.\nTake it out from your street!.",
+  "description": "A nasty empty aluminium can.\nTake it out from your street!\ntrashit#",
   "image": "https:\/\/vkonst.github.io\/trashIt\/erc1155\/test\/resources\/images\/1800000000000a13.png",
-  "url": "https://vkonst.github.io/trashIt/erc1155/test/1800000000000a13.json"
+  "url": "https://vkonst.github.io/trashIt/erc1155/test/1800000000000a13.json",
+  "properties": {
+    "trashablilty": 33,
+    "trashitablity": 44,
+    "half-life": 12
+  }
 }
