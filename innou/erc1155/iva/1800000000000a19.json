@@ -1,0 +1,12 @@
+{
+  "name": "Yobi",
+  "description": "Made by Professor Natsumi 5 years ago, originally developed as a child and family friendly robot assistant for the Japanese market.\nMaru means (`round`) The Marubo project was unfortunately scrapped after the company decided to focus on software and digital assistants like Siri instead.\nAs a half finished prototype he ended up in the basement of Natsumi's house. \nOnce Natsumi meets Iva, he receives the parts he needs to learn, fly and fight.",
+  "image": "https:\/\/vkonst.github.io\/innou\/erc1155\/iva\/resources\/images\/yobi.png",
+  "url": "https://vkonst.github.io/innou/erc1155/iva/1800000000000a19.json",
+  "properties": {
+    "Age": "1 year",
+    "Height": "1.50m",
+    "Weight": "80kg",
+    "EyeColor": "green (at ease), yellow (neutral) and red (angry)"
+  }
+}

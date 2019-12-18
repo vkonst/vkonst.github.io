@@ -1,0 +1,12 @@
+{
+  "name": "Professor Natsumi",
+  "description": "Hanako's father. Natsumi translates losely to `vegetables, greens (na)` and `pick, pluck (tsumi)`. His wife passed away in the nuclear disaster at Fukushima, where she worked as a scientist researching a renewable energy reactor.\nHe's a single parent inventor who used to work for a huge tech company until he got fired once they rendered him obsolete.\nNow he is helping out the community by teaching them to do repairs and runs a small electronics shop. He also makes practical and fun inventions like toys and playgrounds out of trashed items. He's loved by a lot of people, and has a strong bond with his daughter.",
+  "image": "https:\/\/vkonst.github.io\/innou\/erc1155\/iva\/resources\/images\/professor.png",
+  "url": "https://vkonst.github.io/innou/erc1155/iva/1800000000000a17.json",
+  "properties": {
+    "Age": "42",
+    "Height": "1.75m",
+    "Weight": "70kg",
+    "EyeColor": "dark brown"
+  }
+}

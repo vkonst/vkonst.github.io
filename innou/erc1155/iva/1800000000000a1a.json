@@ -1,0 +1,12 @@
+{
+  "name": "Gomuda (Boss Enemy)",
+  "description": "A huge monster made of discarded and forgotten garbage. His name translates to `Gomi (Garbage)` and `Muda (Waste)`.\nThe more people waste and destroy nature, the bigger and stronger he gets.\nHis breath is pure poison, made mostly of leaked chemicals and rotting material. \nHe takes pleasure in mentally tormenting his opponents, making them feel utterly guilty for all the bad stuff humans have done. He can heal himself by collecting more garbage and recombining pieces. The only way he can be destroyed is by taking him apart, and reuse his parts for repairs and upcycling.",
+  "image": "https:\/\/vkonst.github.io\/innou\/erc1155\/iva\/resources\/images\/gomo.png",
+  "url": "https://vkonst.github.io/innou/erc1155/iva/1800000000000a1a.json",
+  "properties": {
+    "Age": "140",
+    "Height": "6m",
+    "Weight": "30.000kg",
+    "EyeColor": "yellow/orange"
+  }
+}
