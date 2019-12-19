@@ -7,6 +7,12 @@
     "Age": "13",
     "Height": "1.45m",
     "Weight": "45kg",
-    "EyeColor": "brown/chestnut"
+    "EyeColor": "brown/chestnut",
+    "Strengths": {
+      "value": ["smart", "handy", "creative", "usually calm", "slow but reliable"]
+    },
+    "Weaknesses": {
+      "value": ["messy", "unorganized", "can't cook", "perfectionist", "melancholic", "overly worried", "fearful"]
+    }
   }
 }
