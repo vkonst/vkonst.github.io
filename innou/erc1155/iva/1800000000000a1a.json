@@ -7,6 +7,8 @@
     "Age": "140",
     "Height": "6m",
     "Weight": "30.000kg",
-    "EyeColor": "yellow/orange"
+    "EyeColor": "yellow/orange",
+    "Strengths": ["very strong", "resilient", "clever"],
+    "Weaknesses": ["against hope", "against creativity", "inventiveness", "spirit"]
   }
 }

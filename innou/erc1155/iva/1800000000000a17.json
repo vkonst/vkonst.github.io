@@ -7,6 +7,8 @@
     "Age": "42",
     "Height": "1.75m",
     "Weight": "70kg",
-    "EyeColor": "dark brown"
+    "EyeColor": "dark brown",
+    "Strengths": ["smart", "handy", "creative", "usually calm", "slow but reliable"],
+    "Weaknesses": ["messy", "unorganized", "can't cook", "perfectionist", "melancholic", "overly worried", "fearful"]
   }
 }

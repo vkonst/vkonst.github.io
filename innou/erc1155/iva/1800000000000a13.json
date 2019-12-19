@@ -7,6 +7,8 @@
     "Age": "n.a.",
     "Height": "1.30m",
     "Weight": "35kg",
-    "EyeColor": "Red/brown"
+    "EyeColor": "Red/brown",
+    "Strengths": ["happy, curious, emphatic, helpful, brave, responsible, alert, sensitive"],
+    "Weaknesses": ["emotional", "sensitive", "a bit judgemental", "fanatic"]
   }
 }
